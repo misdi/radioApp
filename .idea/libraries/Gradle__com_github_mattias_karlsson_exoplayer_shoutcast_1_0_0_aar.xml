@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.mattias-karlsson:exoplayer-shoutcast:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../AndroidStudioCache/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-shoutcast-1.0.0.aar/182167a44bb52f324a4671d164374527/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../AndroidStudioCache/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-shoutcast-1.0.0.aar/182167a44bb52f324a4671d164374527/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

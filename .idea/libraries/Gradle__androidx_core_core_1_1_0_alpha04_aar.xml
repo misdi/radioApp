@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.core:core:1.1.0-alpha04@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../../../../AndroidStudioCache/.gradle/caches/transforms-2/files-2.1/182266b0e05e092efc8c739be0132cea/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../AndroidStudioCache/.gradle/caches/transforms-2/files-2.1/182266b0e05e092efc8c739be0132cea/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../AndroidStudioCache/.gradle/caches/transforms-2/files-2.1/182266b0e05e092efc8c739be0132cea/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../AndroidStudioCache/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.1.0-alpha04/e5a4a5e6c2dbe7bd87cc09920e309c8e5cc4e317/core-1.1.0-alpha04-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

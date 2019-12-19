@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "442805427039",
+    "firebase_url": "https://radio-ba7fd.firebaseio.com",
+    "project_id": "radio-ba7fd",
+    "storage_bucket": "radio-ba7fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442805427039:android:7e3544d963e9bdfa28b4ea",
+        "android_client_info": {
+          "package_name": "id.segitiga.radio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442805427039-qj5sgtida5lpqgtp8i5s8kefqoe3f2gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4rnsRY3JtrBt00Rm_3WRmpIWuMfKEt2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442805427039-qj5sgtida5lpqgtp8i5s8kefqoe3f2gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,462 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="id.segitiga.radio"
+4    android:versionCode="20190918"
+5    android:versionName="3.4" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="17"
+8-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:6:5-66
+11-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:7:5-78
+12-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:7:22-76
+13    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+13-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:8:5-76
+13-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:8:22-74
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:9:5-80
+14-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:9:22-78
+15
+16    <uses-feature
+16-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:11:5-13:36
+17        android:glEsVersion="0x00020000"
+17-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:12:9-41
+18        android:required="false" />
+18-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:13:9-33
+19
+20    <!-- Required by older versions of Google Play services to create GCM registration tokens -->
+21    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+21-->[com.google.android.gms:play-services-gcm:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\33d74423e5892e0b2b83f48510a36430\play-services-gcm-17.0.0\AndroidManifest.xml:23:5-82
+21-->[com.google.android.gms:play-services-gcm:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\33d74423e5892e0b2b83f48510a36430\play-services-gcm-17.0.0\AndroidManifest.xml:23:22-79
+22    <uses-permission android:name="android.permission.WAKE_LOCK" />
+22-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9a932c631d16cff39b1fd7467a9bc0ab\play-services-measurement-17.2.0\AndroidManifest.xml:25:5-68
+22-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9a932c631d16cff39b1fd7467a9bc0ab\play-services-measurement-17.2.0\AndroidManifest.xml:25:22-65
+23    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+23-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9a932c631d16cff39b1fd7467a9bc0ab\play-services-measurement-17.2.0\AndroidManifest.xml:26:5-110
+23-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9a932c631d16cff39b1fd7467a9bc0ab\play-services-measurement-17.2.0\AndroidManifest.xml:26:22-107
+24
+25    <application
+25-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:15:5-128:19
+26        android:name="com.ypyglobal.xradio.XRadioApplication"
+26-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:16:9-42
+27        android:allowBackup="true"
+27-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:17:9-35
+28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+28-->[androidx.core:core:1.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\77c4ca8de7420572df5784eb1490f6be\core-1.1.0\AndroidManifest.xml:24:18-86
+29        android:debuggable="true"
+30        android:hardwareAccelerated="true"
+30-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:18:9-43
+31        android:icon="@mipmap/ic_launcher"
+31-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:21:9-43
+32        android:label="@string/app_name"
+32-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:23:9-41
+33        android:roundIcon="@mipmap/ic_launcher_round"
+33-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:22:9-54
+34        android:supportsRtl="true"
+34-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:19:9-35
+35        android:testOnly="true"
+36        android:theme="@style/AppThemeFull"
+36-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:24:9-44
+37        android:usesCleartextTraffic="true" >
+37-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:20:9-44
+38        <activity
+38-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:25:9-35:20
+39            android:name="com.ypyglobal.xradio.XRadioSplashActivity"
+39-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:26:13-49
+40            android:configChanges="touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+40-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:27:13-145
+41            android:label="@string/app_name"
+41-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:28:13-45
+42            android:screenOrientation="portrait" >
+42-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:29:13-49
+43            <intent-filter>
+43-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:30:13-34:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:31:17-68
+44-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:31:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:33:17-76
+46-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:33:27-74
+47            </intent-filter>
+48        </activity>
+49        <activity
+49-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:37:9-44:20
+50            android:name="com.ypyglobal.xradio.XMultiRadioMainActivity"
+50-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:38:13-52
+51            android:configChanges="touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+51-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:39:13-145
+52            android:label="@string/app_name"
+52-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:40:13-45
+53            android:launchMode="singleTop"
+53-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:42:13-43
+54            android:screenOrientation="portrait"
+54-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:43:13-49
+55            android:windowSoftInputMode="adjustPan|adjustResize" >
+55-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:41:13-65
+56        </activity>
+57        <activity
+57-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:45:9-52:20
+58            android:name="com.ypyglobal.xradio.XSingleRadioMainActivity"
+58-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:46:13-53
+59            android:configChanges="touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+59-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:47:13-145
+60            android:label="@string/app_name"
+60-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:48:13-45
+61            android:launchMode="singleTop"
+61-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:50:13-43
+62            android:screenOrientation="portrait"
+62-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:51:13-49
+63            android:windowSoftInputMode="adjustPan|adjustResize" >
+63-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:49:13-65
+64        </activity>
+65        <activity
+65-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:54:9-60:20
+66            android:name="com.ypyglobal.xradio.XRadioShowUrlActivity"
+66-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:55:13-50
+67            android:configChanges="touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+67-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:56:13-145
+68            android:label="@string/app_name"
+68-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:57:13-45
+69            android:screenOrientation="portrait" >
+69-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:58:13-49
+70        </activity>
+71        <activity
+71-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:61:9-67:20
+72            android:name="com.ypyglobal.xradio.XRadioGrantActivity"
+72-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:62:13-48
+73            android:configChanges="touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+73-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:63:13-145
+74            android:label="@string/app_name"
+74-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:64:13-45
+75            android:screenOrientation="portrait" >
+75-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:65:13-49
+76        </activity>
+77
+78        <service
+78-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:69:9-72:19
+79            android:name="com.ypyglobal.xradio.stream.service.YPYStreamService"
+79-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:70:13-80
+80            android:exported="false" >
+80-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:71:13-37
+81        </service>
+82
+83        <receiver android:name="com.ypyglobal.xradio.stream.service.YPYIntentReceiver" >
+83-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:74:9-81:20
+83-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:74:19-87
+84            <intent-filter>
+84-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:75:13-77:29
+85                <action android:name="android.media.AUDIO_BECOMING_NOISY" />
+85-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:76:17-76
+85-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:76:25-74
+86            </intent-filter>
+87            <intent-filter>
+87-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:78:13-80:29
+88                <action android:name="android.intent.action.MEDIA_BUTTON" />
+88-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:79:17-76
+88-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:79:25-74
+89            </intent-filter>
+90        </receiver>
+91
+92        <!-- Firebase Notification -->
+93
+94        <meta-data
+95            android:name="com.google.firebase.messaging.default_notification_channel_id"
+95-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:86:13-89
+96            android:value="id.segitiga.radio.N3" />
+96-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:87:13-48
+97
+98        <service android:name="com.ypyglobal.xradio.firebasemsg.XRadioFBMessagingService" >
+98-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:89:9-94:19
+98-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:90:13-65
+99            <intent-filter>
+99-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:91:13-93:29
+100                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+100-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:92:17-77
+100-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:92:25-75
+101            </intent-filter>
+102        </service>
+103
+104        <!--
+105        Set custom default icon. This is used when no icon is set for incoming notification messages.
+106        See README(https://goo.gl/l4GJaQ) for more.
+107        -->
+108        <meta-data
+108-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:98:9-100:64
+109            android:name="com.google.firebase.messaging.default_notification_icon"
+109-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:99:13-83
+110            android:resource="@drawable/ic_notification_24dp" />
+110-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:100:13-62
+111
+112        <!--
+113             Set color used with incoming notification messages. This is used when no color is set for the incoming
+114             notification message. See README(https://goo.gl/6BKBk7) for more.
+115        -->
+116        <meta-data
+116-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:104:9-106:53
+117            android:name="com.google.firebase.messaging.default_notification_color"
+117-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:105:13-84
+118            android:resource="@color/colorPrimary" />
+118-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:106:13-51
+119        <meta-data
+119-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:108:9-109:42
+120            android:name="firebase_messaging_auto_init_enabled"
+120-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:108:20-71
+121            android:value="true" />
+121-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:109:20-40
+122        <meta-data
+122-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:110:9-111:42
+123            android:name="firebase_analytics_collection_enabled"
+123-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:110:20-72
+124            android:value="true" />
+124-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:111:20-40
+125
+126        <service
+126-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:114:9-120:19
+127            android:name="com.ypyglobal.xradio.firebasemsg.XRadioJobService"
+127-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:116:13-57
+128            android:exported="false" >
+128-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:115:13-37
+129            <intent-filter>
+129-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:117:13-119:29
+130                <action android:name="com.firebase.jobdispatcher.ACTION_EXECUTE" />
+130-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:118:17-83
+130-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:118:25-81
+131            </intent-filter>
+132        </service>
+133
+134        <meta-data
+134-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:122:9-124:35
+135            android:name="com.google.android.gms.ads.AD_MANAGER_APP"
+135-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:123:13-69
+136            android:value="true" />
+136-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:124:13-33
+137
+138        <uses-library
+138-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:126:9-87
+139            android:name="org.apache.http.legacy"
+139-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:126:23-60
+140            android:required="false" />
+140-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:126:61-85
+141
+142        <!--
+143             FirebaseMessagingService performs security checks at runtime,
+144             but set to not exported to explicitly avoid allowing another app to call it.
+145        -->
+146        <service
+146-->[com.google.firebase:firebase-messaging:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\74c1464094062de44137a011886fc46e\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:28:9-34:19
+147            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+147-->[com.google.firebase:firebase-messaging:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\74c1464094062de44137a011886fc46e\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:29:13-82
+148            android:exported="false" >
+148-->[com.google.firebase:firebase-messaging:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\74c1464094062de44137a011886fc46e\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:30:13-37
+149            <intent-filter android:priority="-500" >
+149-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:91:13-93:29
+150                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+150-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:92:17-77
+150-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:92:25-75
+151            </intent-filter>
+152        </service>
+153        <!--
+154             Receives GooglePlay execution requests and forwards them to the
+155             appropriate internal service.
+156        -->
+157        <service
+157-->[com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\70074e61e39827877f86c0de01a0abb3\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:32:9-39:19
+158            android:name="com.firebase.jobdispatcher.GooglePlayReceiver"
+158-->[com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\70074e61e39827877f86c0de01a0abb3\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:33:13-73
+159            android:exported="true"
+159-->[com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\70074e61e39827877f86c0de01a0abb3\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:34:13-36
+160            android:permission="com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE" >
+160-->[com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\70074e61e39827877f86c0de01a0abb3\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:35:13-93
+161            <intent-filter>
+161-->[com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\70074e61e39827877f86c0de01a0abb3\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:36:13-38:29
+162                <action android:name="com.google.android.gms.gcm.ACTION_TASK_READY" />
+162-->[com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\70074e61e39827877f86c0de01a0abb3\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:37:17-87
+162-->[com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\70074e61e39827877f86c0de01a0abb3\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:37:25-84
+163            </intent-filter>
+164        </service>
+165
+166        <activity
+166-->[com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9ac435529632373bb682d7ad00598e72\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:15:9-19:75
+167            android:name="com.facebook.ads.AudienceNetworkActivity"
+167-->[com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9ac435529632373bb682d7ad00598e72\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:16:13-68
+168            android:configChanges="keyboardHidden|orientation|screenSize"
+168-->[com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9ac435529632373bb682d7ad00598e72\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:17:13-74
+169            android:exported="false"
+169-->[com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9ac435529632373bb682d7ad00598e72\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:18:13-37
+170            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+170-->[com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9ac435529632373bb682d7ad00598e72\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:19:13-72
+171        <activity
+171-->[com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9ac435529632373bb682d7ad00598e72\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:20:9-25:75
+172            android:name="com.facebook.ads.internal.ipc.RemoteANActivity"
+172-->[com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9ac435529632373bb682d7ad00598e72\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:21:13-74
+173            android:configChanges="keyboardHidden|orientation|screenSize"
+173-->[com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9ac435529632373bb682d7ad00598e72\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:22:13-74
+174            android:exported="false"
+174-->[com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9ac435529632373bb682d7ad00598e72\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:23:13-37
+175            android:process=":adnw"
+175-->[com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9ac435529632373bb682d7ad00598e72\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:24:13-36
+176            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+176-->[com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9ac435529632373bb682d7ad00598e72\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:25:13-72
+177
+178        <service
+178-->[com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9ac435529632373bb682d7ad00598e72\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:27:9-29:40
+179            android:name="com.facebook.ads.internal.ipc.AdsProcessPriorityService"
+179-->[com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9ac435529632373bb682d7ad00598e72\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:28:13-83
+180            android:exported="false" />
+180-->[com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9ac435529632373bb682d7ad00598e72\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:29:13-37
+181        <service
+181-->[com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9ac435529632373bb682d7ad00598e72\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:30:9-33:39
+182            android:name="com.facebook.ads.internal.ipc.AdsMessengerService"
+182-->[com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9ac435529632373bb682d7ad00598e72\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:31:13-77
+183            android:exported="false"
+183-->[com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9ac435529632373bb682d7ad00598e72\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:32:13-37
+184            android:process=":adnw" />
+184-->[com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9ac435529632373bb682d7ad00598e72\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:33:13-36
+185
+186        <provider
+186-->[com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9ac435529632373bb682d7ad00598e72\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:35:9-38:40
+187            android:name="com.facebook.ads.AudienceNetworkContentProvider"
+187-->[com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9ac435529632373bb682d7ad00598e72\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:36:13-75
+188            android:authorities="id.segitiga.radio.AudienceNetworkContentProvider"
+188-->[com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9ac435529632373bb682d7ad00598e72\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:37:13-82
+189            android:exported="false" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+189-->[com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9ac435529632373bb682d7ad00598e72\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:38:13-37
+190        <activity
+190-->[com.google.android.gms:play-services-ads-lite:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\80a4226280f461c8e61d6ecd2b182b6e\play-services-ads-lite-18.2.0\AndroidManifest.xml:29:9-33:64
+191            android:name="com.google.android.gms.ads.AdActivity"
+191-->[com.google.android.gms:play-services-ads-lite:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\80a4226280f461c8e61d6ecd2b182b6e\play-services-ads-lite-18.2.0\AndroidManifest.xml:30:13-65
+192            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+192-->[com.google.android.gms:play-services-ads-lite:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\80a4226280f461c8e61d6ecd2b182b6e\play-services-ads-lite-18.2.0\AndroidManifest.xml:31:13-122
+193            android:exported="false"
+193-->[com.google.android.gms:play-services-ads-lite:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\80a4226280f461c8e61d6ecd2b182b6e\play-services-ads-lite-18.2.0\AndroidManifest.xml:32:13-37
+194            android:theme="@android:style/Theme.Translucent" />
+194-->[com.google.android.gms:play-services-ads-lite:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\80a4226280f461c8e61d6ecd2b182b6e\play-services-ads-lite-18.2.0\AndroidManifest.xml:33:13-61
+195
+196        <provider
+196-->[com.google.android.gms:play-services-ads-lite:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\80a4226280f461c8e61d6ecd2b182b6e\play-services-ads-lite-18.2.0\AndroidManifest.xml:35:9-39:39
+197            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
+197-->[com.google.android.gms:play-services-ads-lite:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\80a4226280f461c8e61d6ecd2b182b6e\play-services-ads-lite-18.2.0\AndroidManifest.xml:36:13-76
+198            android:authorities="id.segitiga.radio.mobileadsinitprovider"
+198-->[com.google.android.gms:play-services-ads-lite:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\80a4226280f461c8e61d6ecd2b182b6e\play-services-ads-lite-18.2.0\AndroidManifest.xml:37:13-73
+199            android:exported="false"
+199-->[com.google.android.gms:play-services-ads-lite:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\80a4226280f461c8e61d6ecd2b182b6e\play-services-ads-lite-18.2.0\AndroidManifest.xml:38:13-37
+200            android:initOrder="100" />
+200-->[com.google.android.gms:play-services-ads-lite:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\80a4226280f461c8e61d6ecd2b182b6e\play-services-ads-lite-18.2.0\AndroidManifest.xml:39:13-36
+201
+202        <receiver
+202-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9a932c631d16cff39b1fd7467a9bc0ab\play-services-measurement-17.2.0\AndroidManifest.xml:29:9-33:20
+203            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+203-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9a932c631d16cff39b1fd7467a9bc0ab\play-services-measurement-17.2.0\AndroidManifest.xml:30:13-85
+204            android:enabled="true"
+204-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9a932c631d16cff39b1fd7467a9bc0ab\play-services-measurement-17.2.0\AndroidManifest.xml:31:13-35
+205            android:exported="false" >
+205-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9a932c631d16cff39b1fd7467a9bc0ab\play-services-measurement-17.2.0\AndroidManifest.xml:32:13-37
+206        </receiver>
+207        <receiver
+207-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9a932c631d16cff39b1fd7467a9bc0ab\play-services-measurement-17.2.0\AndroidManifest.xml:34:9-42:20
+208            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+208-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9a932c631d16cff39b1fd7467a9bc0ab\play-services-measurement-17.2.0\AndroidManifest.xml:35:13-100
+209            android:enabled="true"
+209-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9a932c631d16cff39b1fd7467a9bc0ab\play-services-measurement-17.2.0\AndroidManifest.xml:36:13-35
+210            android:exported="true"
+210-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9a932c631d16cff39b1fd7467a9bc0ab\play-services-measurement-17.2.0\AndroidManifest.xml:37:13-36
+211            android:permission="android.permission.INSTALL_PACKAGES" >
+211-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9a932c631d16cff39b1fd7467a9bc0ab\play-services-measurement-17.2.0\AndroidManifest.xml:38:13-69
+212            <intent-filter>
+212-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9a932c631d16cff39b1fd7467a9bc0ab\play-services-measurement-17.2.0\AndroidManifest.xml:39:13-41:29
+213                <action android:name="com.android.vending.INSTALL_REFERRER" />
+213-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9a932c631d16cff39b1fd7467a9bc0ab\play-services-measurement-17.2.0\AndroidManifest.xml:40:17-79
+213-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9a932c631d16cff39b1fd7467a9bc0ab\play-services-measurement-17.2.0\AndroidManifest.xml:40:25-76
+214            </intent-filter>
+215        </receiver>
+216
+217        <service
+217-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9a932c631d16cff39b1fd7467a9bc0ab\play-services-measurement-17.2.0\AndroidManifest.xml:44:9-47:40
+218            android:name="com.google.android.gms.measurement.AppMeasurementService"
+218-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9a932c631d16cff39b1fd7467a9bc0ab\play-services-measurement-17.2.0\AndroidManifest.xml:45:13-84
+219            android:enabled="true"
+219-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9a932c631d16cff39b1fd7467a9bc0ab\play-services-measurement-17.2.0\AndroidManifest.xml:46:13-35
+220            android:exported="false" />
+220-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9a932c631d16cff39b1fd7467a9bc0ab\play-services-measurement-17.2.0\AndroidManifest.xml:47:13-37
+221        <service
+221-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9a932c631d16cff39b1fd7467a9bc0ab\play-services-measurement-17.2.0\AndroidManifest.xml:48:9-52:72
+222            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+222-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9a932c631d16cff39b1fd7467a9bc0ab\play-services-measurement-17.2.0\AndroidManifest.xml:49:13-87
+223            android:enabled="true"
+223-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9a932c631d16cff39b1fd7467a9bc0ab\play-services-measurement-17.2.0\AndroidManifest.xml:50:13-35
+224            android:exported="false"
+224-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9a932c631d16cff39b1fd7467a9bc0ab\play-services-measurement-17.2.0\AndroidManifest.xml:51:13-37
+225            android:permission="android.permission.BIND_JOB_SERVICE" />
+225-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9a932c631d16cff39b1fd7467a9bc0ab\play-services-measurement-17.2.0\AndroidManifest.xml:52:13-69
+226        <service
+226-->[com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9621a35a66958a2617c236640b1798bf\play-services-measurement-api-17.2.0\AndroidManifest.xml:27:9-33:19
+227            android:name="com.google.firebase.components.ComponentDiscoveryService"
+227-->[com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9621a35a66958a2617c236640b1798bf\play-services-measurement-api-17.2.0\AndroidManifest.xml:28:13-84
+228            android:exported="false" >
+228-->[com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9621a35a66958a2617c236640b1798bf\play-services-measurement-api-17.2.0\AndroidManifest.xml:29:13-37
+229            <meta-data
+229-->[com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9621a35a66958a2617c236640b1798bf\play-services-measurement-api-17.2.0\AndroidManifest.xml:30:13-32:85
+230                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+230-->[com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9621a35a66958a2617c236640b1798bf\play-services-measurement-api-17.2.0\AndroidManifest.xml:31:17-139
+231                android:value="com.google.firebase.components.ComponentRegistrar" />
+231-->[com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9621a35a66958a2617c236640b1798bf\play-services-measurement-api-17.2.0\AndroidManifest.xml:32:17-82
+232            <meta-data
+232-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\60e55299195f31b05c35e9d05580e58d\firebase-iid-20.0.0\AndroidManifest.xml:32:13-34:85
+233                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+233-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\60e55299195f31b05c35e9d05580e58d\firebase-iid-20.0.0\AndroidManifest.xml:33:17-96
+234                android:value="com.google.firebase.components.ComponentRegistrar" />
+234-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\60e55299195f31b05c35e9d05580e58d\firebase-iid-20.0.0\AndroidManifest.xml:34:17-82
+235        </service>
+236
+237        <receiver
+237-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\60e55299195f31b05c35e9d05580e58d\firebase-iid-20.0.0\AndroidManifest.xml:37:9-44:20
+238            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+238-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\60e55299195f31b05c35e9d05580e58d\firebase-iid-20.0.0\AndroidManifest.xml:38:13-78
+239            android:exported="true"
+239-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\60e55299195f31b05c35e9d05580e58d\firebase-iid-20.0.0\AndroidManifest.xml:39:13-36
+240            android:permission="com.google.android.c2dm.permission.SEND" >
+240-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\60e55299195f31b05c35e9d05580e58d\firebase-iid-20.0.0\AndroidManifest.xml:40:13-73
+241            <intent-filter>
+241-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\60e55299195f31b05c35e9d05580e58d\firebase-iid-20.0.0\AndroidManifest.xml:41:13-43:29
+242                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+242-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\60e55299195f31b05c35e9d05580e58d\firebase-iid-20.0.0\AndroidManifest.xml:42:17-81
+242-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\60e55299195f31b05c35e9d05580e58d\firebase-iid-20.0.0\AndroidManifest.xml:42:25-78
+243            </intent-filter>
+244        </receiver>
+245
+246        <activity
+246-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\eeb0ffa20429b95ad83a1c92b22ee8c2\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+247            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+247-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\eeb0ffa20429b95ad83a1c92b22ee8c2\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+248            android:exported="false"
+248-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\eeb0ffa20429b95ad83a1c92b22ee8c2\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+249            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+249-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\eeb0ffa20429b95ad83a1c92b22ee8c2\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+250
+251        <provider
+251-->[com.google.firebase:firebase-common:19.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\31b246efb6247c0894fd06c7d6f1c798\firebase-common-19.0.0\AndroidManifest.xml:12:9-16:39
+252            android:name="com.google.firebase.provider.FirebaseInitProvider"
+252-->[com.google.firebase:firebase-common:19.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\31b246efb6247c0894fd06c7d6f1c798\firebase-common-19.0.0\AndroidManifest.xml:13:13-77
+253            android:authorities="id.segitiga.radio.firebaseinitprovider"
+253-->[com.google.firebase:firebase-common:19.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\31b246efb6247c0894fd06c7d6f1c798\firebase-common-19.0.0\AndroidManifest.xml:14:13-72
+254            android:exported="false"
+254-->[com.google.firebase:firebase-common:19.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\31b246efb6247c0894fd06c7d6f1c798\firebase-common-19.0.0\AndroidManifest.xml:15:13-37
+255            android:initOrder="100" />
+255-->[com.google.firebase:firebase-common:19.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\31b246efb6247c0894fd06c7d6f1c798\firebase-common-19.0.0\AndroidManifest.xml:16:13-36
+256
+257        <meta-data
+257-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f0baa020d1447e70be991f6124d9b4b0\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+258            android:name="com.google.android.gms.version"
+258-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f0baa020d1447e70be991f6124d9b4b0\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+259            android:value="@integer/google_play_services_version" />
+259-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f0baa020d1447e70be991f6124d9b4b0\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+260    </application>
+261
+262</manifest>
