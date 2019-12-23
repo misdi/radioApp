@@ -24,17 +24,17 @@ public interface IXRadioConstants {
 	//number grid column in app for Flat Grid, Card Grid
 	int NUMBER_GRID_COLUMN = 2;
 
-    String YOUR_CONTACT_EMAIL = "YOUR_CONTACT_EMAIL";
-    String URL_FACEBOOK = "URL_FACEBOOK";
-    String URL_TWITTER = "URL_TWITTER";
-    String URL_WEBSITE = "URL_WEBSITE";
-    String URL_INSTAGRAM = "URL_INSTAGRAM";
+    String YOUR_CONTACT_EMAIL = "hello@segitiga.id";
+    String URL_FACEBOOK = "https://www.facebook.com/segitigaDEV";
+    String URL_TWITTER = "https://twitter.com/segitigaDev";
+    String URL_WEBSITE = "https://segitiga.id";
+    String URL_INSTAGRAM = "https://www.instagram.com/segitiga.dev/";
 
-	String URL_TERM_OF_USE = "http://yourdomain.com/admin_panel/term_of_use.php";
-	String URL_PRIVACY_POLICY = "http://yourdomain.com/admin_panel/privacy_policy.php";
+	String URL_TERM_OF_USE = "https://radio.fly.my.id/term_of_use.php";
+	String URL_PRIVACY_POLICY = "https://radio.fly.my.id/privacy_policy.php";
 
 	// if set it to be true, all icons (wifi, battery..) on status bar will be black
-	boolean USE_LIGHT_STATUS_BAR = false;
+	boolean USE_LIGHT_STATUS_BAR = true;
 
 	//true if you just want to use offline config. It will save request
 	boolean OFFLINE_UI_CONFIG = false;
