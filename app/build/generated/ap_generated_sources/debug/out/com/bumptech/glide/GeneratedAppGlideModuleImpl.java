@@ -3,7 +3,7 @@ package com.bumptech.glide;
 import android.content.Context;
 import android.util.Log;
 import androidx.annotation.NonNull;
-import com.ypyglobal.xradio.ypylibs.imageloader.model.GlideConfiguration;
+import com.segitiga.radio.ypylibs.imageloader.model.GlideConfiguration;
 import java.lang.Class;
 import java.lang.Override;
 import java.lang.SuppressWarnings;
@@ -17,7 +17,7 @@ final class GeneratedAppGlideModuleImpl extends GeneratedAppGlideModule {
   GeneratedAppGlideModuleImpl() {
     appGlideModule = new GlideConfiguration();
     if (Log.isLoggable("Glide", Log.DEBUG)) {
-      Log.d("Glide", "Discovered AppGlideModule from annotation: com.ypyglobal.xradio.ypylibs.imageloader.model.GlideConfiguration");
+      Log.d("Glide", "Discovered AppGlideModule from annotation: com.segitiga.radio.ypylibs.imageloader.model.GlideConfiguration");
     }
   }
 

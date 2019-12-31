@@ -61,7 +61,7 @@
                     android:paddingEnd="@dimen/small_margin"
                     android:text="Love you tonight"
                     android:textAllCaps="true"
-                    android:textColor="@color/grid_view_color_main_text"
+                    android:textColor="@color/grid_view_color_main_text_genre"
                     android:textSize="@dimen/text_size_subhead"
                     android:textStyle="bold"/>
             </RelativeLayout>

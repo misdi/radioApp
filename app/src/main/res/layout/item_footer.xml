@@ -36,7 +36,7 @@
             android:layout_centerInParent="true"
             android:orientation="horizontal">
 
-            <com.ypyglobal.xradio.ypylibs.view.CircularProgressBar
+            <com.segitiga.radio.ypylibs.view.CircularProgressBar
                 android:id="@+id/progressBar_loading_more"
                 android:layout_width="@dimen/height_process_bar"
                 android:layout_height="@dimen/height_process_bar"

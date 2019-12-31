@@ -43,6 +43,8 @@
     <!--grid text color when you use the type grid ui-->
     <color name="grid_view_color_main_text">#ffffff</color>
 
+    <color name="grid_view_color_main_text_genre">#0313C5</color>
+
     <!--grid subtext color when you use the type grid ui-->
     <color name="grid_view_color_secondary_text">#8Affffff</color>
 

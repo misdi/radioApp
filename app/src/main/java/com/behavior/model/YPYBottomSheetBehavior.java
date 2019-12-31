@@ -26,7 +26,7 @@ import android.view.View;
  * @author:YPY Global
 
  * @Email: bl911vn@gmail.com
- * @Website: http://ypyglobal.com
+ * @Website: http://segitiga.com
  * Created by YPY Global on 10/19/17.
  */
 

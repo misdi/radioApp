@@ -57,7 +57,7 @@
                 android:textSize="@dimen/text_size_body"
                 android:textStyle="bold"/>
 
-            <com.ypyglobal.xradio.ypylibs.view.MaterialIconView
+            <com.segitiga.radio.ypylibs.view.MaterialIconView
                 android:id="@+id/icon_check"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

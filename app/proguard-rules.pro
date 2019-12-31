@@ -240,8 +240,8 @@
 -keep class com.google.gson.stream.** { *; }
 
 # Application classes that will be serialized/deserialized over Gson
--keep class com.ypyglobal.xradio.model.** { *; }
--keep class com.ypyglobal.xradio.ypylibs.imageloader.** { *; }
+-keep class radio.model.** { *; }
+-keep class radio.ypylibs.imageloader.** { *; }
 
 -keep class com.wang.avi.** { *; }
 -keep class com.wang.avi.indicators.** { *; }

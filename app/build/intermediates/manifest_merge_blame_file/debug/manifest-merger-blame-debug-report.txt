@@ -1,8 +1,8 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="id.segitiga.radio"
-4    android:versionCode="20190918"
-5    android:versionName="3.4" >
+4    android:versionCode="1"
+5    android:versionName="1.1" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="17"
@@ -43,8 +43,8 @@
 24
 25    <application
 25-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:15:5-128:19
-26        android:name="com.ypyglobal.xradio.XRadioApplication"
-26-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:16:9-42
+26        android:name="com.segitiga.radio.XRadioApplication"
+26-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:16:9-60
 27        android:allowBackup="true"
 27-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:17:9-35
 28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -67,8 +67,8 @@
 37-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:20:9-44
 38        <activity
 38-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:25:9-35:20
-39            android:name="com.ypyglobal.xradio.XRadioSplashActivity"
-39-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:26:13-49
+39            android:name="com.segitiga.radio.XRadioSplashActivity"
+39-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:26:13-67
 40            android:configChanges="touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
 40-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:27:13-145
 41            android:label="@string/app_name"
@@ -88,8 +88,8 @@
 48        </activity>
 49        <activity
 49-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:37:9-44:20
-50            android:name="com.ypyglobal.xradio.XMultiRadioMainActivity"
-50-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:38:13-52
+50            android:name="com.segitiga.radio.XMultiRadioMainActivity"
+50-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:38:13-70
 51            android:configChanges="touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
 51-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:39:13-145
 52            android:label="@string/app_name"
@@ -103,8 +103,8 @@
 56        </activity>
 57        <activity
 57-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:45:9-52:20
-58            android:name="com.ypyglobal.xradio.XSingleRadioMainActivity"
-58-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:46:13-53
+58            android:name="com.segitiga.radio.XSingleRadioMainActivity"
+58-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:46:13-71
 59            android:configChanges="touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
 59-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:47:13-145
 60            android:label="@string/app_name"
@@ -118,8 +118,8 @@
 64        </activity>
 65        <activity
 65-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:54:9-60:20
-66            android:name="com.ypyglobal.xradio.XRadioShowUrlActivity"
-66-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:55:13-50
+66            android:name="com.segitiga.radio.XRadioShowUrlActivity"
+66-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:55:13-68
 67            android:configChanges="touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
 67-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:56:13-145
 68            android:label="@string/app_name"
@@ -129,8 +129,8 @@
 70        </activity>
 71        <activity
 71-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:61:9-67:20
-72            android:name="com.ypyglobal.xradio.XRadioGrantActivity"
-72-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:62:13-48
+72            android:name="com.segitiga.radio.XRadioGrantActivity"
+72-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:62:13-66
 73            android:configChanges="touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
 73-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:63:13-145
 74            android:label="@string/app_name"
@@ -141,15 +141,15 @@
 77
 78        <service
 78-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:69:9-72:19
-79            android:name="com.ypyglobal.xradio.stream.service.YPYStreamService"
-79-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:70:13-80
+79            android:name="com.segitiga.radio.stream.service.YPYStreamService"
+79-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:70:13-78
 80            android:exported="false" >
 80-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:71:13-37
 81        </service>
 82
-83        <receiver android:name="com.ypyglobal.xradio.stream.service.YPYIntentReceiver" >
+83        <receiver android:name="com.segitiga.radio.stream.service.YPYIntentReceiver" >
 83-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:74:9-81:20
-83-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:74:19-87
+83-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:74:19-85
 84            <intent-filter>
 84-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:75:13-77:29
 85                <action android:name="android.media.AUDIO_BECOMING_NOISY" />
@@ -172,9 +172,9 @@
 96            android:value="id.segitiga.radio.N3" />
 96-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:87:13-48
 97
-98        <service android:name="com.ypyglobal.xradio.firebasemsg.XRadioFBMessagingService" >
+98        <service android:name="com.segitiga.radio.firebasemsg.XRadioFBMessagingService" >
 98-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:89:9-94:19
-98-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:90:13-65
+98-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:90:13-83
 99            <intent-filter>
 99-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:91:13-93:29
 100                <action android:name="com.google.firebase.MESSAGING_EVENT" />
@@ -219,8 +219,8 @@
 125
 126        <service
 126-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:114:9-120:19
-127            android:name="com.ypyglobal.xradio.firebasemsg.XRadioJobService"
-127-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:116:13-57
+127            android:name="com.segitiga.radio.firebasemsg.XRadioJobService"
+127-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:116:13-75
 128            android:exported="false" >
 128-->C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:115:13-37
 129            <intent-filter>

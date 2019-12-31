@@ -13,7 +13,7 @@
         android:background="@color/white"
         android:paddingTop="@dimen/padding_top_dialog" >
 
-        <com.ypyglobal.xradio.ypylibs.view.CircularProgressBar
+        <com.segitiga.radio.ypylibs.view.CircularProgressBar
             android:id="@+id/progressBar1"
             android:layout_width="@dimen/height_process_bar"
             android:layout_height="@dimen/height_process_bar"

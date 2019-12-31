@@ -43,6 +43,7 @@
                 android:src="@drawable/ic_rect_img_default"
                 android:scaleType="centerCrop"
             />
+
             <TextView
                 android:id="@+id/tv_name"
                 android:layout_width="match_parent"
@@ -54,9 +55,9 @@
                 android:paddingEnd="@dimen/small_margin"
                 android:text="Love you tonight"
                 android:textAllCaps="true"
-                android:textColor="@color/grid_view_color_main_text"
+                android:textColor="@color/grid_view_color_main_text_genre"
                 android:textSize="@dimen/text_size_body"
-                android:textStyle="bold"/>
+                android:textStyle="bold" />
         </RelativeLayout>
 
     </com.balysv.materialripple.MaterialRippleLayout>

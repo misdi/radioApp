@@ -942,6 +942,7 @@ color give_permission_bg_color
 color grey
 color grid_view_bg_color
 color grid_view_color_main_text
+color grid_view_color_main_text_genre
 color grid_view_color_secondary_text
 color highlighted_text_material_dark
 color highlighted_text_material_light

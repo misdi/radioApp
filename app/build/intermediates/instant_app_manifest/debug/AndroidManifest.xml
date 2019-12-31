@@ -2,8 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="id.segitiga.radio"
     android:targetSandboxVersion="2"
-    android:versionCode="20190918"
-    android:versionName="3.4" >
+    android:versionCode="1"
+    android:versionName="1.1" >
 
     <uses-sdk
         android:minSdkVersion="17"
@@ -24,7 +24,7 @@
     <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
 
     <application
-        android:name="com.ypyglobal.xradio.XRadioApplication"
+        android:name="com.segitiga.radio.XRadioApplication"
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
@@ -37,7 +37,7 @@
         android:theme="@style/AppThemeFull"
         android:usesCleartextTraffic="true" >
         <activity
-            android:name="com.ypyglobal.xradio.XRadioSplashActivity"
+            android:name="com.segitiga.radio.XRadioSplashActivity"
             android:configChanges="touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
             android:label="@string/app_name"
             android:screenOrientation="portrait" >
@@ -48,7 +48,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.ypyglobal.xradio.XMultiRadioMainActivity"
+            android:name="com.segitiga.radio.XMultiRadioMainActivity"
             android:configChanges="touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
             android:label="@string/app_name"
             android:launchMode="singleTop"
@@ -56,7 +56,7 @@
             android:windowSoftInputMode="adjustPan|adjustResize" >
         </activity>
         <activity
-            android:name="com.ypyglobal.xradio.XSingleRadioMainActivity"
+            android:name="com.segitiga.radio.XSingleRadioMainActivity"
             android:configChanges="touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
             android:label="@string/app_name"
             android:launchMode="singleTop"
@@ -64,24 +64,24 @@
             android:windowSoftInputMode="adjustPan|adjustResize" >
         </activity>
         <activity
-            android:name="com.ypyglobal.xradio.XRadioShowUrlActivity"
+            android:name="com.segitiga.radio.XRadioShowUrlActivity"
             android:configChanges="touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
             android:label="@string/app_name"
             android:screenOrientation="portrait" >
         </activity>
         <activity
-            android:name="com.ypyglobal.xradio.XRadioGrantActivity"
+            android:name="com.segitiga.radio.XRadioGrantActivity"
             android:configChanges="touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
             android:label="@string/app_name"
             android:screenOrientation="portrait" >
         </activity>
 
         <service
-            android:name="com.ypyglobal.xradio.stream.service.YPYStreamService"
+            android:name="com.segitiga.radio.stream.service.YPYStreamService"
             android:exported="false" >
         </service>
 
-        <receiver android:name="com.ypyglobal.xradio.stream.service.YPYIntentReceiver" >
+        <receiver android:name="com.segitiga.radio.stream.service.YPYIntentReceiver" >
             <intent-filter>
                 <action android:name="android.media.AUDIO_BECOMING_NOISY" />
             </intent-filter>
@@ -96,7 +96,7 @@
             android:name="com.google.firebase.messaging.default_notification_channel_id"
             android:value="id.segitiga.radio.N3" />
 
-        <service android:name="com.ypyglobal.xradio.firebasemsg.XRadioFBMessagingService" >
+        <service android:name="com.segitiga.radio.firebasemsg.XRadioFBMessagingService" >
             <intent-filter>
                 <action android:name="com.google.firebase.MESSAGING_EVENT" />
             </intent-filter>
@@ -125,7 +125,7 @@
             android:value="true" />
 
         <service
-            android:name="com.ypyglobal.xradio.firebasemsg.XRadioJobService"
+            android:name="com.segitiga.radio.firebasemsg.XRadioJobService"
             android:exported="false" >
             <intent-filter>
                 <action android:name="com.firebase.jobdispatcher.ACTION_EXECUTE" />

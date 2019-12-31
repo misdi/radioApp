@@ -101,7 +101,7 @@ INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xra
 INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:2:1-130:12
 INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:2:1-130:12
 	package
-		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:2:11-41
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:2:11-39
 		INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -265,8 +265,8 @@ MERGED from [com.google.android.gms:play-services-ads-base:18.2.0] C:\Users\mmis
 	android:usesCleartextTraffic
 		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:20:9-44
 	android:name
-		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:16:9-42
-activity#com.ypyglobal.xradio.XRadioSplashActivity
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:16:9-60
+activity#com.segitiga.radio.XRadioSplashActivity
 ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:25:9-35:20
 	android:screenOrientation
 		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:29:13-49
@@ -275,7 +275,7 @@ ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio
 	android:configChanges
 		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:27:13-145
 	android:name
-		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:26:13-49
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:26:13-67
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:30:13-34:29
 action#android.intent.action.MAIN
@@ -286,7 +286,7 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:33:17-76
 	android:name
 		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:33:27-74
-activity#com.ypyglobal.xradio.XMultiRadioMainActivity
+activity#com.segitiga.radio.XMultiRadioMainActivity
 ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:37:9-44:20
 	android:screenOrientation
 		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:43:13-49
@@ -299,8 +299,8 @@ ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio
 	android:configChanges
 		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:39:13-145
 	android:name
-		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:38:13-52
-activity#com.ypyglobal.xradio.XSingleRadioMainActivity
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:38:13-70
+activity#com.segitiga.radio.XSingleRadioMainActivity
 ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:45:9-52:20
 	android:screenOrientation
 		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:51:13-49
@@ -313,8 +313,8 @@ ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio
 	android:configChanges
 		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:47:13-145
 	android:name
-		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:46:13-53
-activity#com.ypyglobal.xradio.XRadioShowUrlActivity
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:46:13-71
+activity#com.segitiga.radio.XRadioShowUrlActivity
 ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:54:9-60:20
 	android:screenOrientation
 		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:58:13-49
@@ -323,8 +323,8 @@ ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio
 	android:configChanges
 		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:56:13-145
 	android:name
-		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:55:13-50
-activity#com.ypyglobal.xradio.XRadioGrantActivity
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:55:13-68
+activity#com.segitiga.radio.XRadioGrantActivity
 ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:61:9-67:20
 	android:screenOrientation
 		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:65:13-49
@@ -333,17 +333,17 @@ ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio
 	android:configChanges
 		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:63:13-145
 	android:name
-		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:62:13-48
-service#com.ypyglobal.xradio.stream.service.YPYStreamService
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:62:13-66
+service#com.segitiga.radio.stream.service.YPYStreamService
 ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:69:9-72:19
 	android:exported
 		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:71:13-37
 	android:name
-		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:70:13-80
-receiver#com.ypyglobal.xradio.stream.service.YPYIntentReceiver
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:70:13-78
+receiver#com.segitiga.radio.stream.service.YPYIntentReceiver
 ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:74:9-81:20
 	android:name
-		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:74:19-87
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:74:19-85
 intent-filter#action:name:android.media.AUDIO_BECOMING_NOISY
 ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:75:13-77:29
 action#android.media.AUDIO_BECOMING_NOISY
@@ -356,10 +356,10 @@ action#android.intent.action.MEDIA_BUTTON
 ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:79:17-76
 	android:name
 		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:79:25-74
-service#com.ypyglobal.xradio.firebasemsg.XRadioFBMessagingService
+service#com.segitiga.radio.firebasemsg.XRadioFBMessagingService
 ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:89:9-94:19
 	android:name
-		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:90:13-65
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:90:13-83
 intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
 ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:91:13-93:29
 action#com.google.firebase.MESSAGING_EVENT
@@ -390,12 +390,12 @@ ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio
 		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:111:20-40
 	android:name
 		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:110:20-72
-service#com.ypyglobal.xradio.firebasemsg.XRadioJobService
+service#com.segitiga.radio.firebasemsg.XRadioJobService
 ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:114:9-120:19
 	android:exported
 		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:115:13-37
 	android:name
-		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:116:13-57
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:116:13-75
 intent-filter#action:name:com.firebase.jobdispatcher.ACTION_EXECUTE
 ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:117:13-119:29
 action#com.firebase.jobdispatcher.ACTION_EXECUTE

@@ -66,7 +66,7 @@
                 />
             </LinearLayout>
 
-            <com.ypyglobal.xradio.ypylibs.view.MaterialIconView
+            <com.segitiga.radio.ypylibs.view.MaterialIconView
                 android:id="@+id/img_chevron"
                 android:layout_width="@dimen/size_img_medium"
                 android:layout_height="@dimen/size_img_medium"
