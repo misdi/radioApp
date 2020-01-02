@@ -1,0 +1,41 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\AndroidManifest.xml:24:1-33:12
+INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\AndroidManifest.xml:24:1-33:12
+INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\AndroidManifest.xml:24:1-33:12
+INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\AndroidManifest.xml:24:1-33:12
+INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\AndroidManifest.xml:24:1-33:12
+INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\AndroidManifest.xml:24:1-33:12
+INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\AndroidManifest.xml:24:1-33:12
+	package
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\AndroidManifest.xml:25:5-38
+		INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\AndroidManifest.xml
+		INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\AndroidManifest.xml
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\AndroidManifest.xml:24:1-33:12
+		INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\AndroidManifest.xml
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\AndroidManifest.xml:24:1-33:12
+		INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\AndroidManifest.xml:24:11-69
+application
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\AndroidManifest.xml:28:5-31:19
+	android:allowBackup
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\AndroidManifest.xml:29:9-35
+uses-sdk
+INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\AndroidManifest.xml
+INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\AndroidManifest.xml
+INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\AndroidManifest.xml
+INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\AndroidManifest.xml
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\AndroidManifest.xml
+		INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\AndroidManifest.xml
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\AndroidManifest.xml
+		INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\AndroidManifest.xml

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\mmisdi\\Android\\Projects\\xradio-34\\codecanyon-21876033-xradio-best-radio-template-for-android\\SourceCode\\android_code\\xRadio\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mmisdi\\.gradle\\caches\\transforms-2\\files-2.1\\5741a695507fb7a45a4292fff04eb8e4\\jetified-core-0.9.6.0\\res\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "51",
+                        "endOffsets": "102"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\mmisdi\\Android\\Projects\\xradio-34\\codecanyon-21876033-xradio-best-radio-template-for-android\\SourceCode\\android_code\\xRadio\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mmisdi\\.gradle\\caches\\transforms-2\\files-2.1\\5741a695507fb7a45a4292fff04eb8e4\\jetified-core-0.9.6.0\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "2,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,1044",
+                        "endLines": "18,35",
+                        "endColumns": "10,10",
+                        "endOffsets": "1039,2010"
+                    }
+                }
+            ]
+        }
+    ]
+}

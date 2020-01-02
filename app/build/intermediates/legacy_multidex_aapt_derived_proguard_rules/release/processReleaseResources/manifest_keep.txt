@@ -1,0 +1,4 @@
+# Referenced at C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:25
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:25
+-keep class com.segitiga.radio.XRadioApplication { <init>(); }

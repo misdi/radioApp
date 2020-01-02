@@ -1,0 +1,816 @@
+-- Merging decision tree log ---
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:85:9-87:50
+	android:value
+		INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:87:13-48
+	android:name
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:86:13-89
+manifest
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:2:1-130:12
+INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:2:1-130:12
+INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:2:1-130:12
+INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:2:1-130:12
+MERGED from [:equalizerview] C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\equalizerview\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-13:12
+MERGED from [:SeekArc_library] C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\build\intermediates\library_manifest\release\AndroidManifest.xml:25:1-37:12
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\5741a695507fb7a45a4292fff04eb8e4\jetified-core-0.9.6.0\AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\cda49834f3d1acce6361818350964b51\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.1.0-alpha10] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\ea388d4b4ee1bb595cda4625f31103f3\material-1.1.0-alpha10\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\3d4ee111b37eaa145a3604771491f090\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b9ba96fd3ee6c6ef696cc079fd0af49a\jetified-play-services-ads-18.2.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\449b4c9e76b3c5af8ce7a36f8ab3273d\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\325bbd6ed04436768bd94355d14f94bb\legacy-support-v13-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.ads.consent:consent-library:1.0.7] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\6ddc4f555a8b4ec63505a534410f4fcf\jetified-consent-library-1.0.7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.jd-alexander:LikeButton:0.2.3] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2ba8e421b5125edf75a1555662a5ec6f\jetified-LikeButton-0.2.3\AndroidManifest.xml:2:1-14:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\508a805797b8680b4c0bbb36160303f4\jetified-library-1.4.2\AndroidManifest.xml:6:1-16:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\8e6c18aee77583460419b2d853215d36\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta03] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\fa2e6db19bd9504fec45a8c69d77816f\viewpager2-1.0.0-beta03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta04] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\07320b469a8282db11c78b3e5b3b8ea7\recyclerview-1.1.0-beta04\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f3c205e47cc8dd541104b0fa1f174aba\exifinterface-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\ec0fb094ee1bbcc76520fca38bd79352\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [jp.wasabeef:glide-transformations:4.0.1] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\fe63887c5c3e404c59bc253b7602273f\jetified-glide-transformations-4.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b82739389798361d413dc666473b2764\jetified-glide-4.9.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\aaa98cbe210915afb936fb4cd20a5707\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9c3640d07917ef5369ea1b057d6b2164\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\873e69212858fc05d2ae283ea72e0403\play-services-gcm-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\69d7ef2d36a331547ac75d496607fa16\play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-core:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\352b93b14570d337db002465ceeb7de1\firebase-core-17.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f787cba37d464fc83e7c89febdf10b26\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\08c4a5edb38d5e0a9a0a4e3c432cec96\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:17:1-42:12
+MERGED from [com.github.hotchemi:android-rate:1.0.1] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\ba68555629ff6a791bc50d04840632eb\android-rate-1.0.1\AndroidManifest.xml:2:1-12:12
+MERGED from [com.balysv:material-ripple:1.0.2] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\c96dd50cb0a471cce971cd1ce3b9b71c\material-ripple-1.0.2\AndroidManifest.xml:2:1-14:12
+MERGED from [com.jakewharton:butterknife:10.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\cd1f0cbb2585c8e4f1c45f2650aa3c3e\butterknife-10.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\4b013c8f081564472ca1a71926e75e89\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:2:1-41:12
+MERGED from [com.github.warkiz.widget:indicatorseekbar:1.2.9] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b3da4edc23a526c54cbbb664f822a9a8\jetified-indicatorseekbar-1.2.9\AndroidManifest.xml:2:1-12:12
+MERGED from [com.wang.avi:library:2.1.3] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\eb41d07a040aafbf0ce1fc0b2056f21d\library-2.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.10.4] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9112420c03b13666cbb29eaed1274396\exoplayer-dash-2.10.4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.10.4] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\ef66efebd3d9ea2f2e0771098a898cc5\exoplayer-hls-2.10.4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.4] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b373c7d3ee51dda26046f6f32bf5b958\jetified-exoplayer-core-2.10.4\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\538f6e4e7f068acb77bd5608f19f0f01\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\892318de2ad8fdd8578ae2c3390b2fc3\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\93a564a66755ce649b3d560241173140\coordinatorlayout-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\41bfac28e1c1fd04acc744fdb45a3762\transition-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\628fefc256f6ea52cb8a16a492e93236\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\661b8c4c55a5f222dd9138f56d1eeb8d\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-lite:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\c4b56a703a7ac27530f92d7394d4986d\play-services-ads-lite-18.2.0\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\a5f9d918626c4f8625b02795e8151359\firebase-analytics-17.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\42b622b3cfaae3cf6d854731e0050fc0\play-services-measurement-sdk-17.2.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b2278447ad3e38baf78da45ab38c6b61\play-services-measurement-api-17.2.0\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b5609029e158aff12bc510b77f2417db\play-services-measurement-impl-17.2.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\7ea8bedef6d00648ebb05cfdda91a4b4\play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gass:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f9c53345dad0477ab132bf64f54010e0\play-services-gass-18.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\445dea50a0fb722231b393cc5e0ef705\play-services-iid-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\840553fde31cc3c6b32987770b6a1841\firebase-iid-20.0.0\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2c1fdaeafb852361eef97c7d13d02123\firebase-iid-interop-17.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\801003a98384a003ef81c208871891be\play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\8010e4436a4ac31b628910e96a8c83a6\play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\696670cd6c30379cfbd8798140442054\play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f08ba9bbd566aff933de8a4ac87ba7a2\firebase-common-19.0.0\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\803a3c352c1706c7df65a3025c8de965\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\c4122d4d5d2bd3b047043f3ce7eef8a2\firebase-measurement-connector-18.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\1e3ee6e4f73f6658effd545e42f73f47\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\cf5ee74367cb150d5138121125ec1410\play-services-measurement-base-17.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\60f7fec0ce14a42c45c4de928b747a85\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\6d79b046fbab1849cda9d4ac34c93a3a\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\7795e55b9986d01eb7882d6418c9faa1\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\3e777699b86fd7768b5e4cada7f0d573\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f92816a0ee9d0fcbe24a9334ee3bec3e\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9431d78d6ca303e03f07997689cca73d\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\8cb15141f02de3c36c7fdb8599ec0484\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife-runtime:10.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\8f8282be78522e6f367850c903bbc0a5\butterknife-runtime-10.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\5c7fb742a6328584ce469689f1e0e1bc\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\6fd3c17aa94e1b5ec3c4ce4520a54cd0\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2dc435726d9eda40da7b5ffc62f04958\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\90cb3443195bb1a2313a0e12fcd851a3\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\e0db3362fd183cac35425e849790f796\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\37de0e2247367bf9378f6b1e525f8efa\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\461ee2c994304ceffd521b74acd9b8bd\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\8d38efb861d714d44935f50fa664bb31\jetified-gifdecoder-4.9.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\67b1e996be4cd1e069d2b37c961ad621\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b345eb6ef3897abf08e75af5e3815c2d\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\8595e4f2462fbfcf102ce5f89fa6af94\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b981d8d3a9f64bd4274c5cfcf2140948\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\7e1f6f7733e1d0aaa35a79001d45156c\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\0096cd42a9cd08956858a8fe4de3b3dc\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f67d31dd0d57067cee74e1f7bf250062\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\ff5e0e73e53b241b9779a3148a817a7f\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\71f9d6c4ae4e25dccc3711f22ffff5a0\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-base:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\92d5ab4ae16ec860e4766c0d2e49fde2\play-services-ads-base-18.2.0\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:2:1-130:12
+INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:2:1-130:12
+INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:2:1-130:12
+	package
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:2:11-39
+		INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:2:1-130:12
+		INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:2:1-130:12
+		INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:3:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:6:5-66
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\873e69212858fc05d2ae283ea72e0403\play-services-gcm-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\873e69212858fc05d2ae283ea72e0403\play-services-gcm-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\4b013c8f081564472ca1a71926e75e89\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:11:5-67
+MERGED from [com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\4b013c8f081564472ca1a71926e75e89\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\c4b56a703a7ac27530f92d7394d4986d\play-services-ads-lite-18.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\c4b56a703a7ac27530f92d7394d4986d\play-services-ads-lite-18.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b2278447ad3e38baf78da45ab38c6b61\play-services-measurement-api-17.2.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b2278447ad3e38baf78da45ab38c6b61\play-services-measurement-api-17.2.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b5609029e158aff12bc510b77f2417db\play-services-measurement-impl-17.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b5609029e158aff12bc510b77f2417db\play-services-measurement-impl-17.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\445dea50a0fb722231b393cc5e0ef705\play-services-iid-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\445dea50a0fb722231b393cc5e0ef705\play-services-iid-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\840553fde31cc3c6b32987770b6a1841\firebase-iid-20.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\840553fde31cc3c6b32987770b6a1841\firebase-iid-20.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\1e3ee6e4f73f6658effd545e42f73f47\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\1e3ee6e4f73f6658effd545e42f73f47\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:7:5-78
+MERGED from [com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\4b013c8f081564472ca1a71926e75e89\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:12:5-79
+MERGED from [com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\4b013c8f081564472ca1a71926e75e89\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.4] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b373c7d3ee51dda26046f6f32bf5b958\jetified-exoplayer-core-2.10.4\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.4] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b373c7d3ee51dda26046f6f32bf5b958\jetified-exoplayer-core-2.10.4\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\c4b56a703a7ac27530f92d7394d4986d\play-services-ads-lite-18.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\c4b56a703a7ac27530f92d7394d4986d\play-services-ads-lite-18.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b2278447ad3e38baf78da45ab38c6b61\play-services-measurement-api-17.2.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b2278447ad3e38baf78da45ab38c6b61\play-services-measurement-api-17.2.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b5609029e158aff12bc510b77f2417db\play-services-measurement-impl-17.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b5609029e158aff12bc510b77f2417db\play-services-measurement-impl-17.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\840553fde31cc3c6b32987770b6a1841\firebase-iid-20.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\840553fde31cc3c6b32987770b6a1841\firebase-iid-20.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\1e3ee6e4f73f6658effd545e42f73f47\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\1e3ee6e4f73f6658effd545e42f73f47\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:8:22-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:9:22-78
+uses-feature#0x00020000
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:11:5-13:36
+	android:glEsVersion
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:12:9-41
+	android:required
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:13:9-33
+application
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:15:5-128:19
+MERGED from [:equalizerview] C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\equalizerview\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-20
+MERGED from [:equalizerview] C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\equalizerview\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-20
+MERGED from [:SeekArc_library] C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\build\intermediates\library_manifest\release\AndroidManifest.xml:34:5-35:19
+MERGED from [:SeekArc_library] C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\build\intermediates\library_manifest\release\AndroidManifest.xml:34:5-35:19
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\5741a695507fb7a45a4292fff04eb8e4\jetified-core-0.9.6.0\AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\5741a695507fb7a45a4292fff04eb8e4\jetified-core-0.9.6.0\AndroidManifest.xml:13:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha10] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\ea388d4b4ee1bb595cda4625f31103f3\material-1.1.0-alpha10\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha10] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\ea388d4b4ee1bb595cda4625f31103f3\material-1.1.0-alpha10\AndroidManifest.xml:22:5-20
+MERGED from [com.github.jd-alexander:LikeButton:0.2.3] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2ba8e421b5125edf75a1555662a5ec6f\jetified-LikeButton-0.2.3\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.jd-alexander:LikeButton:0.2.3] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2ba8e421b5125edf75a1555662a5ec6f\jetified-LikeButton-0.2.3\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b82739389798361d413dc666473b2764\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b82739389798361d413dc666473b2764\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\873e69212858fc05d2ae283ea72e0403\play-services-gcm-17.0.0\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\873e69212858fc05d2ae283ea72e0403\play-services-gcm-17.0.0\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\69d7ef2d36a331547ac75d496607fa16\play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\69d7ef2d36a331547ac75d496607fa16\play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\352b93b14570d337db002465ceeb7de1\firebase-core-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\352b93b14570d337db002465ceeb7de1\firebase-core-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f787cba37d464fc83e7c89febdf10b26\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f787cba37d464fc83e7c89febdf10b26\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:22:5-35:19
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\08c4a5edb38d5e0a9a0a4e3c432cec96\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:26:5-40:19
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\08c4a5edb38d5e0a9a0a4e3c432cec96\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:26:5-40:19
+MERGED from [com.github.hotchemi:android-rate:1.0.1] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\ba68555629ff6a791bc50d04840632eb\android-rate-1.0.1\AndroidManifest.xml:10:5-20
+MERGED from [com.github.hotchemi:android-rate:1.0.1] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\ba68555629ff6a791bc50d04840632eb\android-rate-1.0.1\AndroidManifest.xml:10:5-20
+MERGED from [com.balysv:material-ripple:1.0.2] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\c96dd50cb0a471cce971cd1ce3b9b71c\material-ripple-1.0.2\AndroidManifest.xml:12:5-20
+MERGED from [com.balysv:material-ripple:1.0.2] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\c96dd50cb0a471cce971cd1ce3b9b71c\material-ripple-1.0.2\AndroidManifest.xml:12:5-20
+MERGED from [com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\4b013c8f081564472ca1a71926e75e89\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:14:5-39:19
+MERGED from [com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\4b013c8f081564472ca1a71926e75e89\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:14:5-39:19
+MERGED from [com.google.android.gms:play-services-ads-lite:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\c4b56a703a7ac27530f92d7394d4986d\play-services-ads-lite-18.2.0\AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-ads-lite:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\c4b56a703a7ac27530f92d7394d4986d\play-services-ads-lite-18.2.0\AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\a5f9d918626c4f8625b02795e8151359\firebase-analytics-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\a5f9d918626c4f8625b02795e8151359\firebase-analytics-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\42b622b3cfaae3cf6d854731e0050fc0\play-services-measurement-sdk-17.2.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\42b622b3cfaae3cf6d854731e0050fc0\play-services-measurement-sdk-17.2.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b2278447ad3e38baf78da45ab38c6b61\play-services-measurement-api-17.2.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b2278447ad3e38baf78da45ab38c6b61\play-services-measurement-api-17.2.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b5609029e158aff12bc510b77f2417db\play-services-measurement-impl-17.2.0\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b5609029e158aff12bc510b77f2417db\play-services-measurement-impl-17.2.0\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\7ea8bedef6d00648ebb05cfdda91a4b4\play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\7ea8bedef6d00648ebb05cfdda91a4b4\play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f9c53345dad0477ab132bf64f54010e0\play-services-gass-18.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f9c53345dad0477ab132bf64f54010e0\play-services-gass-18.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\445dea50a0fb722231b393cc5e0ef705\play-services-iid-17.0.0\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\445dea50a0fb722231b393cc5e0ef705\play-services-iid-17.0.0\AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\840553fde31cc3c6b32987770b6a1841\firebase-iid-20.0.0\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\840553fde31cc3c6b32987770b6a1841\firebase-iid-20.0.0\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2c1fdaeafb852361eef97c7d13d02123\firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2c1fdaeafb852361eef97c7d13d02123\firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\801003a98384a003ef81c208871891be\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\801003a98384a003ef81c208871891be\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\8010e4436a4ac31b628910e96a8c83a6\play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\8010e4436a4ac31b628910e96a8c83a6\play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\696670cd6c30379cfbd8798140442054\play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\696670cd6c30379cfbd8798140442054\play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f08ba9bbd566aff933de8a4ac87ba7a2\firebase-common-19.0.0\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f08ba9bbd566aff933de8a4ac87ba7a2\firebase-common-19.0.0\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\803a3c352c1706c7df65a3025c8de965\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\803a3c352c1706c7df65a3025c8de965\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\c4122d4d5d2bd3b047043f3ce7eef8a2\firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\c4122d4d5d2bd3b047043f3ce7eef8a2\firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\cf5ee74367cb150d5138121125ec1410\play-services-measurement-base-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\cf5ee74367cb150d5138121125ec1410\play-services-measurement-base-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\60f7fec0ce14a42c45c4de928b747a85\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\60f7fec0ce14a42c45c4de928b747a85\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\e0db3362fd183cac35425e849790f796\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\e0db3362fd183cac35425e849790f796\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\461ee2c994304ceffd521b74acd9b8bd\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\461ee2c994304ceffd521b74acd9b8bd\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\8d38efb861d714d44935f50fa664bb31\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\8d38efb861d714d44935f50fa664bb31\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\92d5ab4ae16ec860e4766c0d2e49fde2\play-services-ads-base-18.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\92d5ab4ae16ec860e4766c0d2e49fde2\play-services-ads-base-18.2.0\AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\e0db3362fd183cac35425e849790f796\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:23:9-41
+	android:hardwareAccelerated
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:18:9-43
+	android:roundIcon
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:22:9-54
+	android:icon
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:24:9-44
+	android:usesCleartextTraffic
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:20:9-44
+	android:name
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:16:9-60
+activity#com.segitiga.radio.XRadioSplashActivity
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:25:9-35:20
+	android:screenOrientation
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:29:13-49
+	android:label
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:28:13-45
+	android:configChanges
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:27:13-145
+	android:name
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:26:13-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:31:17-68
+	android:name
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:33:17-76
+	android:name
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:33:27-74
+activity#com.segitiga.radio.XMultiRadioMainActivity
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:37:9-44:20
+	android:screenOrientation
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:43:13-49
+	android:label
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:40:13-45
+	android:launchMode
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:42:13-43
+	android:windowSoftInputMode
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:41:13-65
+	android:configChanges
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:39:13-145
+	android:name
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:38:13-70
+activity#com.segitiga.radio.XSingleRadioMainActivity
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:45:9-52:20
+	android:screenOrientation
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:51:13-49
+	android:label
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:48:13-45
+	android:launchMode
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:50:13-43
+	android:windowSoftInputMode
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:49:13-65
+	android:configChanges
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:47:13-145
+	android:name
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:46:13-71
+activity#com.segitiga.radio.XRadioShowUrlActivity
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:54:9-60:20
+	android:screenOrientation
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:58:13-49
+	android:label
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:57:13-45
+	android:configChanges
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:56:13-145
+	android:name
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:55:13-68
+activity#com.segitiga.radio.XRadioGrantActivity
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:61:9-67:20
+	android:screenOrientation
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:65:13-49
+	android:label
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:64:13-45
+	android:configChanges
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:63:13-145
+	android:name
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:62:13-66
+service#com.segitiga.radio.stream.service.YPYStreamService
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:69:9-72:19
+	android:exported
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:71:13-37
+	android:name
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:70:13-78
+receiver#com.segitiga.radio.stream.service.YPYIntentReceiver
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:74:9-81:20
+	android:name
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:74:19-85
+intent-filter#action:name:android.media.AUDIO_BECOMING_NOISY
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:75:13-77:29
+action#android.media.AUDIO_BECOMING_NOISY
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:76:17-76
+	android:name
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:76:25-74
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:78:13-80:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:79:17-76
+	android:name
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:79:25-74
+service#com.segitiga.radio.firebasemsg.XRadioFBMessagingService
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:89:9-94:19
+	android:name
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:90:13-83
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:91:13-93:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:92:17-77
+	android:name
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:92:25-75
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:98:9-100:64
+	android:resource
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:100:13-62
+	android:name
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:99:13-83
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:104:9-106:53
+	android:resource
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:106:13-51
+	android:name
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:105:13-84
+meta-data#firebase_messaging_auto_init_enabled
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:108:9-109:42
+	android:value
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:109:20-40
+	android:name
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:108:20-71
+meta-data#firebase_analytics_collection_enabled
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:110:9-111:42
+	android:value
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:111:20-40
+	android:name
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:110:20-72
+service#com.segitiga.radio.firebasemsg.XRadioJobService
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:114:9-120:19
+	android:exported
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:115:13-37
+	android:name
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:116:13-75
+intent-filter#action:name:com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:117:13-119:29
+action#com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:118:17-83
+	android:name
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:118:25-81
+meta-data#com.google.android.gms.ads.AD_MANAGER_APP
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:122:9-124:35
+	android:value
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:124:13-33
+	android:name
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:123:13-69
+uses-library#org.apache.http.legacy
+ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:126:9-87
+	android:required
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:126:61-85
+	android:name
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml:126:23-60
+uses-sdk
+INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml
+MERGED from [:equalizerview] C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\equalizerview\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:equalizerview] C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\equalizerview\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:SeekArc_library] C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\build\intermediates\library_manifest\release\AndroidManifest.xml:30:5-32:41
+MERGED from [:SeekArc_library] C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\SeekArc_library\build\intermediates\library_manifest\release\AndroidManifest.xml:30:5-32:41
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\5741a695507fb7a45a4292fff04eb8e4\jetified-core-0.9.6.0\AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\5741a695507fb7a45a4292fff04eb8e4\jetified-core-0.9.6.0\AndroidManifest.xml:8:5-11:75
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\cda49834f3d1acce6361818350964b51\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\cda49834f3d1acce6361818350964b51\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.material:material:1.1.0-alpha10] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\ea388d4b4ee1bb595cda4625f31103f3\material-1.1.0-alpha10\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha10] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\ea388d4b4ee1bb595cda4625f31103f3\material-1.1.0-alpha10\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\3d4ee111b37eaa145a3604771491f090\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\3d4ee111b37eaa145a3604771491f090\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b9ba96fd3ee6c6ef696cc079fd0af49a\jetified-play-services-ads-18.2.0\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b9ba96fd3ee6c6ef696cc079fd0af49a\jetified-play-services-ads-18.2.0\AndroidManifest.xml:21:5-23:52
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\449b4c9e76b3c5af8ce7a36f8ab3273d\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\449b4c9e76b3c5af8ce7a36f8ab3273d\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\325bbd6ed04436768bd94355d14f94bb\legacy-support-v13-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\325bbd6ed04436768bd94355d14f94bb\legacy-support-v13-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.ads.consent:consent-library:1.0.7] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\6ddc4f555a8b4ec63505a534410f4fcf\jetified-consent-library-1.0.7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.ads.consent:consent-library:1.0.7] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\6ddc4f555a8b4ec63505a534410f4fcf\jetified-consent-library-1.0.7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.jd-alexander:LikeButton:0.2.3] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2ba8e421b5125edf75a1555662a5ec6f\jetified-LikeButton-0.2.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.jd-alexander:LikeButton:0.2.3] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2ba8e421b5125edf75a1555662a5ec6f\jetified-LikeButton-0.2.3\AndroidManifest.xml:7:5-9:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\508a805797b8680b4c0bbb36160303f4\jetified-library-1.4.2\AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\508a805797b8680b4c0bbb36160303f4\jetified-library-1.4.2\AndroidManifest.xml:12:5-14:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\8e6c18aee77583460419b2d853215d36\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\8e6c18aee77583460419b2d853215d36\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta03] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\fa2e6db19bd9504fec45a8c69d77816f\viewpager2-1.0.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta03] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\fa2e6db19bd9504fec45a8c69d77816f\viewpager2-1.0.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta04] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\07320b469a8282db11c78b3e5b3b8ea7\recyclerview-1.1.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta04] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\07320b469a8282db11c78b3e5b3b8ea7\recyclerview-1.1.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f3c205e47cc8dd541104b0fa1f174aba\exifinterface-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f3c205e47cc8dd541104b0fa1f174aba\exifinterface-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\ec0fb094ee1bbcc76520fca38bd79352\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\ec0fb094ee1bbcc76520fca38bd79352\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [jp.wasabeef:glide-transformations:4.0.1] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\fe63887c5c3e404c59bc253b7602273f\jetified-glide-transformations-4.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [jp.wasabeef:glide-transformations:4.0.1] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\fe63887c5c3e404c59bc253b7602273f\jetified-glide-transformations-4.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b82739389798361d413dc666473b2764\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b82739389798361d413dc666473b2764\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\aaa98cbe210915afb936fb4cd20a5707\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\aaa98cbe210915afb936fb4cd20a5707\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9c3640d07917ef5369ea1b057d6b2164\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9c3640d07917ef5369ea1b057d6b2164\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\873e69212858fc05d2ae283ea72e0403\play-services-gcm-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\873e69212858fc05d2ae283ea72e0403\play-services-gcm-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\69d7ef2d36a331547ac75d496607fa16\play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\69d7ef2d36a331547ac75d496607fa16\play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\352b93b14570d337db002465ceeb7de1\firebase-core-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\352b93b14570d337db002465ceeb7de1\firebase-core-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f787cba37d464fc83e7c89febdf10b26\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f787cba37d464fc83e7c89febdf10b26\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\08c4a5edb38d5e0a9a0a4e3c432cec96\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:22:5-24:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\08c4a5edb38d5e0a9a0a4e3c432cec96\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:22:5-24:41
+MERGED from [com.github.hotchemi:android-rate:1.0.1] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\ba68555629ff6a791bc50d04840632eb\android-rate-1.0.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.hotchemi:android-rate:1.0.1] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\ba68555629ff6a791bc50d04840632eb\android-rate-1.0.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.balysv:material-ripple:1.0.2] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\c96dd50cb0a471cce971cd1ce3b9b71c\material-ripple-1.0.2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv:material-ripple:1.0.2] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\c96dd50cb0a471cce971cd1ce3b9b71c\material-ripple-1.0.2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.jakewharton:butterknife:10.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\cd1f0cbb2585c8e4f1c45f2650aa3c3e\butterknife-10.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:10.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\cd1f0cbb2585c8e4f1c45f2650aa3c3e\butterknife-10.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\4b013c8f081564472ca1a71926e75e89\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\4b013c8f081564472ca1a71926e75e89\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.warkiz.widget:indicatorseekbar:1.2.9] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b3da4edc23a526c54cbbb664f822a9a8\jetified-indicatorseekbar-1.2.9\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.warkiz.widget:indicatorseekbar:1.2.9] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b3da4edc23a526c54cbbb664f822a9a8\jetified-indicatorseekbar-1.2.9\AndroidManifest.xml:8:5-10:41
+MERGED from [com.wang.avi:library:2.1.3] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\eb41d07a040aafbf0ce1fc0b2056f21d\library-2.1.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.wang.avi:library:2.1.3] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\eb41d07a040aafbf0ce1fc0b2056f21d\library-2.1.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.10.4] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9112420c03b13666cbb29eaed1274396\exoplayer-dash-2.10.4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.10.4] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9112420c03b13666cbb29eaed1274396\exoplayer-dash-2.10.4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.10.4] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\ef66efebd3d9ea2f2e0771098a898cc5\exoplayer-hls-2.10.4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.10.4] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\ef66efebd3d9ea2f2e0771098a898cc5\exoplayer-hls-2.10.4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.4] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b373c7d3ee51dda26046f6f32bf5b958\jetified-exoplayer-core-2.10.4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.4] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b373c7d3ee51dda26046f6f32bf5b958\jetified-exoplayer-core-2.10.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\538f6e4e7f068acb77bd5608f19f0f01\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\538f6e4e7f068acb77bd5608f19f0f01\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\892318de2ad8fdd8578ae2c3390b2fc3\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\892318de2ad8fdd8578ae2c3390b2fc3\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\93a564a66755ce649b3d560241173140\coordinatorlayout-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\93a564a66755ce649b3d560241173140\coordinatorlayout-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\41bfac28e1c1fd04acc744fdb45a3762\transition-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\41bfac28e1c1fd04acc744fdb45a3762\transition-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\628fefc256f6ea52cb8a16a492e93236\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\628fefc256f6ea52cb8a16a492e93236\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\661b8c4c55a5f222dd9138f56d1eeb8d\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\661b8c4c55a5f222dd9138f56d1eeb8d\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\c4b56a703a7ac27530f92d7394d4986d\play-services-ads-lite-18.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\c4b56a703a7ac27530f92d7394d4986d\play-services-ads-lite-18.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\a5f9d918626c4f8625b02795e8151359\firebase-analytics-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\a5f9d918626c4f8625b02795e8151359\firebase-analytics-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\42b622b3cfaae3cf6d854731e0050fc0\play-services-measurement-sdk-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\42b622b3cfaae3cf6d854731e0050fc0\play-services-measurement-sdk-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b2278447ad3e38baf78da45ab38c6b61\play-services-measurement-api-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b2278447ad3e38baf78da45ab38c6b61\play-services-measurement-api-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b5609029e158aff12bc510b77f2417db\play-services-measurement-impl-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b5609029e158aff12bc510b77f2417db\play-services-measurement-impl-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\7ea8bedef6d00648ebb05cfdda91a4b4\play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\7ea8bedef6d00648ebb05cfdda91a4b4\play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f9c53345dad0477ab132bf64f54010e0\play-services-gass-18.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f9c53345dad0477ab132bf64f54010e0\play-services-gass-18.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\445dea50a0fb722231b393cc5e0ef705\play-services-iid-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\445dea50a0fb722231b393cc5e0ef705\play-services-iid-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\840553fde31cc3c6b32987770b6a1841\firebase-iid-20.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\840553fde31cc3c6b32987770b6a1841\firebase-iid-20.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2c1fdaeafb852361eef97c7d13d02123\firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2c1fdaeafb852361eef97c7d13d02123\firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\801003a98384a003ef81c208871891be\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\801003a98384a003ef81c208871891be\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\8010e4436a4ac31b628910e96a8c83a6\play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\8010e4436a4ac31b628910e96a8c83a6\play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\696670cd6c30379cfbd8798140442054\play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\696670cd6c30379cfbd8798140442054\play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f08ba9bbd566aff933de8a4ac87ba7a2\firebase-common-19.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f08ba9bbd566aff933de8a4ac87ba7a2\firebase-common-19.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\803a3c352c1706c7df65a3025c8de965\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\803a3c352c1706c7df65a3025c8de965\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\c4122d4d5d2bd3b047043f3ce7eef8a2\firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\c4122d4d5d2bd3b047043f3ce7eef8a2\firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\1e3ee6e4f73f6658effd545e42f73f47\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\1e3ee6e4f73f6658effd545e42f73f47\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\cf5ee74367cb150d5138121125ec1410\play-services-measurement-base-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\cf5ee74367cb150d5138121125ec1410\play-services-measurement-base-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\60f7fec0ce14a42c45c4de928b747a85\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\60f7fec0ce14a42c45c4de928b747a85\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\6d79b046fbab1849cda9d4ac34c93a3a\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\6d79b046fbab1849cda9d4ac34c93a3a\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\7795e55b9986d01eb7882d6418c9faa1\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\7795e55b9986d01eb7882d6418c9faa1\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\3e777699b86fd7768b5e4cada7f0d573\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\3e777699b86fd7768b5e4cada7f0d573\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f92816a0ee9d0fcbe24a9334ee3bec3e\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f92816a0ee9d0fcbe24a9334ee3bec3e\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9431d78d6ca303e03f07997689cca73d\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\9431d78d6ca303e03f07997689cca73d\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\8cb15141f02de3c36c7fdb8599ec0484\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\8cb15141f02de3c36c7fdb8599ec0484\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\8f8282be78522e6f367850c903bbc0a5\butterknife-runtime-10.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\8f8282be78522e6f367850c903bbc0a5\butterknife-runtime-10.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\5c7fb742a6328584ce469689f1e0e1bc\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\5c7fb742a6328584ce469689f1e0e1bc\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\6fd3c17aa94e1b5ec3c4ce4520a54cd0\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\6fd3c17aa94e1b5ec3c4ce4520a54cd0\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2dc435726d9eda40da7b5ffc62f04958\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2dc435726d9eda40da7b5ffc62f04958\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\90cb3443195bb1a2313a0e12fcd851a3\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\90cb3443195bb1a2313a0e12fcd851a3\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\e0db3362fd183cac35425e849790f796\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\e0db3362fd183cac35425e849790f796\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\37de0e2247367bf9378f6b1e525f8efa\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\37de0e2247367bf9378f6b1e525f8efa\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\461ee2c994304ceffd521b74acd9b8bd\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\461ee2c994304ceffd521b74acd9b8bd\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\8d38efb861d714d44935f50fa664bb31\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\8d38efb861d714d44935f50fa664bb31\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\67b1e996be4cd1e069d2b37c961ad621\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\67b1e996be4cd1e069d2b37c961ad621\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b345eb6ef3897abf08e75af5e3815c2d\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b345eb6ef3897abf08e75af5e3815c2d\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\8595e4f2462fbfcf102ce5f89fa6af94\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\8595e4f2462fbfcf102ce5f89fa6af94\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b981d8d3a9f64bd4274c5cfcf2140948\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b981d8d3a9f64bd4274c5cfcf2140948\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\7e1f6f7733e1d0aaa35a79001d45156c\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\7e1f6f7733e1d0aaa35a79001d45156c\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\0096cd42a9cd08956858a8fe4de3b3dc\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\0096cd42a9cd08956858a8fe4de3b3dc\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f67d31dd0d57067cee74e1f7bf250062\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f67d31dd0d57067cee74e1f7bf250062\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\ff5e0e73e53b241b9779a3148a817a7f\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\ff5e0e73e53b241b9779a3148a817a7f\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\71f9d6c4ae4e25dccc3711f22ffff5a0\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\71f9d6c4ae4e25dccc3711f22ffff5a0\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\92d5ab4ae16ec860e4766c0d2e49fde2\play-services-ads-base-18.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\92d5ab4ae16ec860e4766c0d2e49fde2\play-services-ads-base-18.2.0\AndroidManifest.xml:5:5-44
+INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\5741a695507fb7a45a4292fff04eb8e4\jetified-core-0.9.6.0\AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mmisdi\Android\Projects\xradio-34\codecanyon-21876033-xradio-best-radio-template-for-android\SourceCode\android_code\xRadio\app\src\main\AndroidManifest.xml
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\873e69212858fc05d2ae283ea72e0403\play-services-gcm-17.0.0\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\445dea50a0fb722231b393cc5e0ef705\play-services-iid-17.0.0\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\445dea50a0fb722231b393cc5e0ef705\play-services-iid-17.0.0\AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\840553fde31cc3c6b32987770b6a1841\firebase-iid-20.0.0\AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\840553fde31cc3c6b32987770b6a1841\firebase-iid-20.0.0\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\873e69212858fc05d2ae283ea72e0403\play-services-gcm-17.0.0\AndroidManifest.xml:23:22-79
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f787cba37d464fc83e7c89febdf10b26\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f787cba37d464fc83e7c89febdf10b26\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f787cba37d464fc83e7c89febdf10b26\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:29:13-82
+service#com.firebase.jobdispatcher.GooglePlayReceiver
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\08c4a5edb38d5e0a9a0a4e3c432cec96\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:32:9-39:19
+	android:exported
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\08c4a5edb38d5e0a9a0a4e3c432cec96\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\08c4a5edb38d5e0a9a0a4e3c432cec96\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:35:13-93
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\08c4a5edb38d5e0a9a0a4e3c432cec96\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:33:13-73
+intent-filter#action:name:com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\08c4a5edb38d5e0a9a0a4e3c432cec96\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:36:13-38:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\08c4a5edb38d5e0a9a0a4e3c432cec96\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:37:17-87
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\08c4a5edb38d5e0a9a0a4e3c432cec96\jetified-firebase-jobdispatcher-0.8.5\AndroidManifest.xml:37:25-84
+activity#com.facebook.ads.AudienceNetworkActivity
+ADDED from [com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\4b013c8f081564472ca1a71926e75e89\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:15:9-19:75
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\4b013c8f081564472ca1a71926e75e89\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:18:13-37
+	android:configChanges
+		ADDED from [com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\4b013c8f081564472ca1a71926e75e89\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:17:13-74
+	android:theme
+		ADDED from [com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\4b013c8f081564472ca1a71926e75e89\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:19:13-72
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\4b013c8f081564472ca1a71926e75e89\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:16:13-68
+activity#com.facebook.ads.internal.ipc.RemoteANActivity
+ADDED from [com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\4b013c8f081564472ca1a71926e75e89\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:20:9-25:75
+	android:process
+		ADDED from [com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\4b013c8f081564472ca1a71926e75e89\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:24:13-36
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\4b013c8f081564472ca1a71926e75e89\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:23:13-37
+	android:configChanges
+		ADDED from [com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\4b013c8f081564472ca1a71926e75e89\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:22:13-74
+	android:theme
+		ADDED from [com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\4b013c8f081564472ca1a71926e75e89\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:25:13-72
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\4b013c8f081564472ca1a71926e75e89\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:21:13-74
+service#com.facebook.ads.internal.ipc.AdsProcessPriorityService
+ADDED from [com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\4b013c8f081564472ca1a71926e75e89\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:27:9-29:40
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\4b013c8f081564472ca1a71926e75e89\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\4b013c8f081564472ca1a71926e75e89\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:28:13-83
+service#com.facebook.ads.internal.ipc.AdsMessengerService
+ADDED from [com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\4b013c8f081564472ca1a71926e75e89\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:30:9-33:39
+	android:process
+		ADDED from [com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\4b013c8f081564472ca1a71926e75e89\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:33:13-36
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\4b013c8f081564472ca1a71926e75e89\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\4b013c8f081564472ca1a71926e75e89\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:31:13-77
+provider#com.facebook.ads.AudienceNetworkContentProvider
+ADDED from [com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\4b013c8f081564472ca1a71926e75e89\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:35:9-38:40
+	android:authorities
+		ADDED from [com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\4b013c8f081564472ca1a71926e75e89\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:37:13-82
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\4b013c8f081564472ca1a71926e75e89\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.5.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\4b013c8f081564472ca1a71926e75e89\jetified-audience-network-sdk-5.5.0\AndroidManifest.xml:36:13-75
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\c4b56a703a7ac27530f92d7394d4986d\play-services-ads-lite-18.2.0\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\c4b56a703a7ac27530f92d7394d4986d\play-services-ads-lite-18.2.0\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\c4b56a703a7ac27530f92d7394d4986d\play-services-ads-lite-18.2.0\AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\c4b56a703a7ac27530f92d7394d4986d\play-services-ads-lite-18.2.0\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\c4b56a703a7ac27530f92d7394d4986d\play-services-ads-lite-18.2.0\AndroidManifest.xml:30:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\c4b56a703a7ac27530f92d7394d4986d\play-services-ads-lite-18.2.0\AndroidManifest.xml:35:9-39:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\c4b56a703a7ac27530f92d7394d4986d\play-services-ads-lite-18.2.0\AndroidManifest.xml:37:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\c4b56a703a7ac27530f92d7394d4986d\play-services-ads-lite-18.2.0\AndroidManifest.xml:38:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\c4b56a703a7ac27530f92d7394d4986d\play-services-ads-lite-18.2.0\AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\c4b56a703a7ac27530f92d7394d4986d\play-services-ads-lite-18.2.0\AndroidManifest.xml:36:13-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b2278447ad3e38baf78da45ab38c6b61\play-services-measurement-api-17.2.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b2278447ad3e38baf78da45ab38c6b61\play-services-measurement-api-17.2.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b5609029e158aff12bc510b77f2417db\play-services-measurement-impl-17.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b5609029e158aff12bc510b77f2417db\play-services-measurement-impl-17.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\840553fde31cc3c6b32987770b6a1841\firebase-iid-20.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\840553fde31cc3c6b32987770b6a1841\firebase-iid-20.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\1e3ee6e4f73f6658effd545e42f73f47\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\1e3ee6e4f73f6658effd545e42f73f47\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b5609029e158aff12bc510b77f2417db\play-services-measurement-impl-17.2.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b5609029e158aff12bc510b77f2417db\play-services-measurement-impl-17.2.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b5609029e158aff12bc510b77f2417db\play-services-measurement-impl-17.2.0\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b5609029e158aff12bc510b77f2417db\play-services-measurement-impl-17.2.0\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\2200171b53a0ca14c28fca5b4dbc7725\play-services-measurement-17.2.0\AndroidManifest.xml:49:13-87
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b2278447ad3e38baf78da45ab38c6b61\play-services-measurement-api-17.2.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\840553fde31cc3c6b32987770b6a1841\firebase-iid-20.0.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\840553fde31cc3c6b32987770b6a1841\firebase-iid-20.0.0\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b2278447ad3e38baf78da45ab38c6b61\play-services-measurement-api-17.2.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b2278447ad3e38baf78da45ab38c6b61\play-services-measurement-api-17.2.0\AndroidManifest.xml:28:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b2278447ad3e38baf78da45ab38c6b61\play-services-measurement-api-17.2.0\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b2278447ad3e38baf78da45ab38c6b61\play-services-measurement-api-17.2.0\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\b2278447ad3e38baf78da45ab38c6b61\play-services-measurement-api-17.2.0\AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\840553fde31cc3c6b32987770b6a1841\firebase-iid-20.0.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\840553fde31cc3c6b32987770b6a1841\firebase-iid-20.0.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\840553fde31cc3c6b32987770b6a1841\firebase-iid-20.0.0\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\840553fde31cc3c6b32987770b6a1841\firebase-iid-20.0.0\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\840553fde31cc3c6b32987770b6a1841\firebase-iid-20.0.0\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\840553fde31cc3c6b32987770b6a1841\firebase-iid-20.0.0\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\840553fde31cc3c6b32987770b6a1841\firebase-iid-20.0.0\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\840553fde31cc3c6b32987770b6a1841\firebase-iid-20.0.0\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\840553fde31cc3c6b32987770b6a1841\firebase-iid-20.0.0\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\840553fde31cc3c6b32987770b6a1841\firebase-iid-20.0.0\AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\801003a98384a003ef81c208871891be\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\801003a98384a003ef81c208871891be\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\801003a98384a003ef81c208871891be\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\801003a98384a003ef81c208871891be\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f08ba9bbd566aff933de8a4ac87ba7a2\firebase-common-19.0.0\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f08ba9bbd566aff933de8a4ac87ba7a2\firebase-common-19.0.0\AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f08ba9bbd566aff933de8a4ac87ba7a2\firebase-common-19.0.0\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f08ba9bbd566aff933de8a4ac87ba7a2\firebase-common-19.0.0\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\f08ba9bbd566aff933de8a4ac87ba7a2\firebase-common-19.0.0\AndroidManifest.xml:13:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\60f7fec0ce14a42c45c4de928b747a85\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\60f7fec0ce14a42c45c4de928b747a85\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mmisdi\.gradle\caches\transforms-2\files-2.1\60f7fec0ce14a42c45c4de928b747a85\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
