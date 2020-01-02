@@ -946,6 +946,7 @@ color grid_view_color_main_text_genre
 color grid_view_color_secondary_text
 color highlighted_text_material_dark
 color highlighted_text_material_light
+color ic_launcher_background
 color icon_action_bar_color
 color icon_color
 color list_view_bg_color
@@ -2364,6 +2365,7 @@ layout text_view_with_theme_line_height
 layout text_view_without_line_height
 menu menu_main
 mipmap ic_launcher
+mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
 string abc_action_bar_home_description
